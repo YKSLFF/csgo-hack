@@ -39,3 +39,4 @@ Config - JSON-based configuration system
 <br />
 <a href="https://memoryhackers.org/forums/csgo-hack-hile.200/">CSGO Hack & Hile</a>
 
+@csgo-hack
